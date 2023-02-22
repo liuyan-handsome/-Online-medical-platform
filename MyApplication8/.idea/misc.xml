@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/drawable-v24/corner_white_bg.xml" value="0.1745" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.157" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/drawable-v24/login_btn_selecter.xml" value="0.1395" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/drawable-v24/login_edit_shape.xml" value="0.1395" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/drawable-v24/login_visible_selecter.xml" value="0.1395" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/drawable-v24/text_press_selecter.xml" value="0.1395" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/drawable-v24/text_selector.xml" value="0.155" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/drawable/green_bg.xml" value="0.117" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.146" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/drawable/item_press_selecter.xml" value="0.146" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/drawable/loading_jump_btn_bg.xml" value="0.1255" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/drawable/nav_text_selecter.xml" value="0.146" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/drawable/tag_home_selecter.xml" value="0.115" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/drawable/tag_mine_selecter.xml" value="0.118" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/drawable/tag_text_selecter.xml" value="0.146" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_businessman_home.xml" value="0.2390625" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_bussinessman_medcine.xml" value="0.22056159420289856" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_bussinessman_medcine_dispose.xml" value="0.2" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_communicate.xml" value="0.20802919708029197" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_desease_begin.xml" value="0.25364583333333335" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_desease_choose_doctor.xml" value="0.11688311688311688" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_desease_home.xml" value="0.2" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_desease_information.xml" value="0.25364583333333335" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_desease_search_information.xml" value="0.17447916666666666" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_dialog_payment.xml" value="0.25364583333333335" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_doctor_add_feedback.xml" value="0.10326086956521739" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_doctor_choose_desease.xml" value="0.1" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_doctor_desease_information.xml" value="0.21965579710144928" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_doctor_feedback.xml" value="0.1" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_doctor_home.xml" value="0.25364583333333335" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_doctor_information.xml" value="0.17447916666666666" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_doctor_information2.xml" value="0.2" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_identity.xml" value="0.10562310030395136" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_login.xml" value="0.19322916666666667" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_main_activityawqe.xml" value="0.14270833333333333" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_medcine.xml" value="0.25364583333333335" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_medcine_information.xml" value="0.128125" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_one_toone.xml" value="0.25364583333333335" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_payment.xml" value="0.176" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_purchase.xml" value="0.15715579710144928" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_purchase2.xml" value="0.16394927536231885" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_register.xml" value="0.176" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_register1.xml" value="0.25364583333333335" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_shimingrenzheng.xml" value="0.10739614994934144" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_test.xml" value="0.176" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/activity_welcome.xml" value="0.12335359675785208" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/botton_dialog.xml" value="0.10739614994934144" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/botton_dialog2.xml" value="0.10739614994934144" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/dialog_dispose.xml" value="0.12335359675785208" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fedback_item.xml" value="0.21965579710144928" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_main.xml" value="0.2" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_myfragment.xml" value="0.1" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_payment.xml" value="0.12222222222222222" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room1.xml" value="0.1897644927536232" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room10.xml" value="0.12037037037037036" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room11.xml" value="0.12037037037037036" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room12.xml" value="0.12037037037037036" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room13.xml" value="0.12037037037037036" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room14.xml" value="0.12037037037037036" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room15.xml" value="0.12037037037037036" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room16.xml" value="0.12037037037037036" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room17.xml" value="0.12037037037037036" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room18.xml" value="0.12335359675785208" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room19.xml" value="0.12335359675785208" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room2.xml" value="0.12037037037037036" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room3.xml" value="0.12037037037037036" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room4.xml" value="0.12037037037037036" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room5.xml" value="0.12037037037037036" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room6.xml" value="0.12037037037037036" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room7.xml" value="0.12037037037037036" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room8.xml" value="0.12037037037037036" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_room9.xml" value="0.126953125" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/fragment_second.xml" value="0.1359375" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/medicine_item.xml" value="0.12335359675785208" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/msg_receive.xml" value="0.25364583333333335" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/msg_send.xml" value="0.25364583333333335" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/payment_item.xml" value="0.14270833333333333" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/purchase_dialog.xml" value="0.21965579710144928" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/purchase_item.xml" value="0.264" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/room_item.xml" value="0.14270833333333333" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/layout/tag_mine_selecter.xml" value="0.13489583333333333" />
+        <entry key="..\:/workspace/MyApplication8/app/src/main/res/menu/bottom_menu.xml" value="0.1953125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
