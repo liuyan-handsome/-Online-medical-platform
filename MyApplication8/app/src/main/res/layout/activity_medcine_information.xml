@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".medcine_information">
+    <ImageView
+        android:id="@+id/image_medcine"
+
+        android:layout_width="143dp"
+        android:layout_height="131dp"
+        android:layout_marginTop="77dp"
+        android:src="@drawable/medcine_999"
+        android:scaleType="fitCenter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/text_medcine_information_name"
+        android:layout_width="234dp"
+        android:layout_height="39dp"
+        android:layout_marginTop="45dp"
+        android:text="药名"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image_medcine" />
+
+    <TextView
+        android:id="@+id/text_medcine_information_price"
+        android:layout_width="231dp"
+        android:layout_height="42dp"
+        android:layout_marginTop="20dp"
+        android:text="价格"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_medcine_information_name" />
+
+    <TextView
+        android:id="@+id/text_medcine_information_location"
+        android:layout_width="225dp"
+        android:layout_height="32dp"
+        android:layout_marginTop="32dp"
+        android:text="发货地址"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.478"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_medcine_information_price" />
+
+    <Button
+        android:id="@+id/btn_medcine_purchase"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45dp"
+        android:text="确认购药"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_medcine_information_location" />
+</androidx.constraintlayout.widget.ConstraintLayout>

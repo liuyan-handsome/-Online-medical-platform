@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/user_navigation"
+    app:startDestination="@id/main_navi">
+    <fragment
+        android:id="@+id/main_navi"
+        android:name="fragement.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" >
+        <action
+            android:id="@+id/action_main_navi_to_mine_navi"
+            app:destination="@id/mine_navi" />
+    </fragment>
+    <fragment
+        android:id="@+id/mine_navi"
+        android:name="fragement.MyFragment"
+        android:label="fragment_myfragment"
+        tools:layout="@layout/fragment_myfragment" />
+</navigation>

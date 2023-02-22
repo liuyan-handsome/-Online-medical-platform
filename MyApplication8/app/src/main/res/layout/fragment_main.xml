@@ -1,0 +1,64 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="fragement.MainFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <Button
+        android:id="@+id/btn_select"
+        android:layout_width="168dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginLeft="25dp"
+        android:background="@drawable/login_btn_selecter"
+        android:text="选择医生"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <Button
+        android:id="@+id/btn_payment"
+        android:layout_width="168dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginLeft="220dp"
+        android:background="@drawable/login_btn_selecter"
+        android:text="自助缴费"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_select" />
+
+    <Button
+        android:id="@+id/btn_feedback"
+        android:layout_width="168dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginLeft="220dp"
+        android:background="@drawable/login_btn_selecter"
+        android:text="诊断反馈"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_medcine" />
+
+    <Button
+        android:id="@+id/btn_purchase"
+        android:layout_width="168dp"
+        android:layout_height="59dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="350dp"
+        android:background="@drawable/login_btn_selecter"
+        android:textColor="@color/white"
+        android:text="购药"
+        android:textSize="20dp" />
+
+
+</FrameLayout>
